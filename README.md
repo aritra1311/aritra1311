@@ -39,7 +39,7 @@
 
 #### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aritra1311&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=aritra1311&theme=onedark&row=1&column=7&title=Repositories,Commits,PullRequest,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
 <!-- link: https://github.com/ryo-ma/github-profile-trophy -->
 
 ## 📄 Resume
