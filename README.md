@@ -9,7 +9,7 @@
 #### About me  
 > - Present employment: Machine Learning Quant Analyst at Morgan Stanely
 > - ML Research Intern at Nagasaki University
-> - Bachelor's Of Technology, Computer Scinece (Vellore Institue Of Technology, Chennai, India)
+> - Bachelor's Of Technology, Computer Science (Vellore Institue Of Technology, Chennai, India)
 
 
 ## 🔧 Technologies & Tools
