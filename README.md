@@ -18,12 +18,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=lat-square&logo=jupyter&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![PySpark](https://img.shields.io/badge/-PySpark-red)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=Apache%20Spark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?logo=Dataiku&color=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&color=white)
 
 
 
