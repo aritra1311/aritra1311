@@ -7,11 +7,10 @@
 ![Particles](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl2c2podHlmZTBsanprd2x6ZzV5bjR6eWVnb3ViNmtqYnZ3ZjM4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9yRMxLuRqyQ0x3jJXD/giphy.gif)
 
 #### About me  
-> - Particle Physicist at the Large Hadron Collider at CERN. 
-> - Present employment: Post-doctoral researcher (RWTH Aachen University, Germany)
-> - Post-doctoral Researcher (École Polytechnique, France) 
-> - Doctor of Philosophy in High Energy Physics (Tata Institute of Fundamental Research Mumbai, India)
-> - Master of Science in Physics (Indian Institute of Technology Indore, India)
+> - Present employment: Machine Learning Quant Analyst at Morgan Stanely
+> - ML Research Intern At Nagasaki University
+> - Bachelor's Of Technology, Computer Scinece (Vellore Institue Of Technology, Chennai, India)
+
 
 ## 🔧 Technologies & Tools
 
@@ -24,8 +23,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-red)
+
 
 
 ## 📊 GitHub Stats
